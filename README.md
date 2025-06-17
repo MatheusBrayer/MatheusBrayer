@@ -58,7 +58,7 @@ Projeto em Python e SQL com interface Tkinter para cadastro, consulta, edição 
 
 ## 📚 Cursos e Certificações
 
-- Formações em Python, SQL, Data Science e Microsserviços na Alura  
+- Formações em Python,Java, SQL, Data Science e Microsserviços na Alura  
 - Programação Orientada a Objetos e Desenvolvimento em Python — Fundação Bradesco  
 - Introdução a Python, SQL e Pandas — Codefinity  
 - Python Mundo 1, 2 e 3 — Curso em Vídeo
