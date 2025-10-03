@@ -1,77 +1,99 @@
-# Olá, eu sou o Matheus Brayer 👋
 
-Desenvolvedor Backend Java em formação, com experiência prática em Python e SQL para automação e análise de dados. Apaixonado por construir sistemas robustos e escaláveis, sempre buscando aprender e aplicar boas práticas.
+# 👋 Olá, eu sou o Matheus Brayer
 
----
+💻 **Desenvolvedor Backend | Java & Spring Boot | REST APIs | SQL & JPA | Git | Docker | Maven**
 
-## 🚀 Sobre mim
+Sou desenvolvedor backend em formação, com foco em **Java e Spring Boot**, criando **APIs REST escaláveis e bem estruturadas**. Tenho experiência prática com **JPA/Hibernate, DTOs, mappers, validação de dados, documentação com SpringDoc OpenAPI** e bancos de dados como **H2, SQLite e PostgreSQL**.
 
-- Desenvolvedor focado em Backend com Java, Spring Boot e microsserviços.  
-- Conhecimento sólido em orientação a objetos, APIs REST, versionamento com Git e bancos de dados relacionais (SQL) e NoSQL.  
-- Experiência em automação de tarefas, integração com APIs e análise de dados utilizando Python (Pandas, NumPy, Seaborn).  
-- Formação em Engenharia de Software (em andamento) e cursos complementares em backend, SQL e Data Science.  
-- Profissional proativo, analítico e com forte raciocínio lógico, sempre pronto para resolver desafios técnicos de forma eficiente.
+Além do backend em Java, desenvolvi projetos em **Python e SQL** aplicados à **automação e análise de dados** (Pandas, NumPy, Seaborn), o que me deu uma visão ampla de integração de tecnologias e manipulação de dados.
+
+Meu perfil é **analítico, proativo e orientado a soluções**, sempre buscando aplicar **boas práticas de código** e evoluir continuamente.
 
 ---
 
-## 🛠️ Skills Técnicas
+## 🚀 Tecnologias e Conhecimentos
 
-| Linguagens      | Tecnologias & Ferramentas     | Banco de Dados       | Outros                             |
-|-----------------|------------------------------|---------------------|----------------------------------|
-| Java (Spring Boot, JPA) | Git, GitHub, VS Code, IntelliJ, PyCharm | SQLite, PostgreSQL, NoSQL (conceitos) | Metodologias Ágeis (Scrum), TDD, Clean Code (estudo) |
-| Python (Pandas, NumPy, Seaborn, Tkinter) | Automação, APIs REST, MVC       | Modelagem Relacional, ETL         | Excel Avançado, Análise de Dados |
+* **Java 8+, Spring Boot, JPA/Hibernate, APIs REST**
+* **DTOs, Mappers, Swagger/OpenAPI**
+* **SQL (SQLite, PostgreSQL), H2 Database**
+* **Maven, Docker, Git, Postman**
+* **Python, Pandas, NumPy, Seaborn, integração com APIs**
+* **Orientação a Objetos, Análise de Dados**
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projetos em Destaque
 
-### Coleta e Análise Climática com Python  
-Extração de dados via API OpenWeatherMap, armazenamento em SQLite e análise com Pandas e Seaborn.
+### 🛒 **E-commerce API**
 
-### Sistema de Cadastro de Alunos  
-Projeto em Python e SQL com interface Tkinter para cadastro, consulta, edição e exclusão de alunos de uma escola de dança.
+API backend em **Java e Spring Boot** com JPA, DTOs, Mappers, validação de dados, documentação com **SpringDoc OpenAPI**, tratamento de exceções e persistência com H2.
+
+### 🎶 **AppMusic**
+
+Aplicação em **Java com POO e MVC**, simulando gerenciamento de músicas e playlists.
+
+### 🌦️ **Projeto Clima**
+
+Coleta de dados via API, armazenamento em SQLite e análise com Pandas e Seaborn.
+
+### 🎓 **Gerenciamento de Alunos**
+
+Sistema em **Python com Tkinter e SQLite** para cadastro, consulta e edição de alunos.
+
+### 💳 **Cartão de Crédito / Conta Bancária**
+
+Projeto em **Java (POO)** simulando operações bancárias.
 
 ---
 
 ## 💼 Experiência Profissional
 
-**Vulcabras Calçados e Artigos Esportivos** — Programador e Mecânico de Máquinas  
-*Julho/2019 – Atual*  
-- Desenvolvimento de soluções internas em Python, Java e SQL para otimização e controle de processos.  
-- Criação de programas para fabricação e manutenção com foco em redução de custos e aumento de eficiência.  
-- Automação e geração de relatórios analíticos com Pacote Office.
+**Vulcabras – Programador de Máquinas**
+*Jul/2019 – Atual*
 
-**SM Matrizes** — Operador de Máquinas / Soldador  
-*Outubro/2015 – Maio/2018*  
-- Produção de matrizes e controle fiscal.  
-- Domínio em soldagem e operação de máquinas.
+* Desenvolvimento de programas para máquinas CNC e bordados em **Java e Python**.
+* Criação de relatórios técnicos e automação de processos.
+* Projetos elétricos, compra de materiais e suporte à manutenção.
+
+**SM Matrizes – Operador de Máquinas**
+*Out/2015 – Mai/2018*
+
+* Operação de máquinas de corte.
+* Elaboração de relatórios e emissão de notas fiscais.
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🎓 Formação
 
-- Bacharelado em Engenharia de Software — Anhanguera (Jan/2023 – Jun/2027, em andamento)  
-- Bacharelado em Engenharia de Produção — Faccat (Trancado)  
-- Técnico em Eletrotécnica e Mecânica Industrial — Cimol
+* **Engenharia de Software** – Anhanguera (Jan/2024 – Jun/2027, em andamento)
+* **Engenharia de Produção** – Faccat (Trancado)
+* **Técnico em Eletrotécnica** – Cimol
+* **Técnico em Mecânica Industrial** – Cimol
 
 ---
 
 ## 📚 Cursos e Certificações
 
-- Formações em Python,Java, SQL, Data Science e Microsserviços na Alura  
-- Programação Orientada a Objetos e Desenvolvimento em Python — Fundação Bradesco  
-- Introdução a Python, SQL e Pandas — Codefinity  
-- Python Mundo 1, 2 e 3 — Curso em Vídeo
+* **Backend com Java & Microsserviços (Spring Boot, REST, JPA, Docker, Maven, Gradle)** – 78h
+* **Python & POO (Aplicações, Consumo de APIs, Tkinter)** – 30h
+* **SQL & Banco de Dados (SQLite, Joins, Views, Transações, Análise de Dados)** – 34h
+* **Data Science (Python, NumPy, Pandas, Seaborn)** – 34h
+* **Fundação Bradesco (POO, Lógica de Programação, HTML)** – 37h
+* **Codefinity (Python, Pandas, NumPy, SQL)** – 28h
+* **Curso em Vídeo – Python (Mundo 1, 2 e 3)** – 120h
+
+---
+
+## 🌎 Idiomas
+
+* **Português**: Nativo
+* **Inglês**: B1 (leitura, escrita e conversação)
 
 ---
 
 ## 📫 Contato
 
-- 📧 mbrayer3@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/matheus-brayer)  
-- 🐙 [GitHub](https://github.com/MatheusBrayer)
-
----
-
-Obrigado por visitar meu perfil! 🚀
+* 📧 [mbrayer3@gmail.com](mailto:mbrayer3@gmail.com)
+* 🔗 [LinkedIn](https://linkedin.com/in/matheus-brayer)
+* 🐙 [GitHub](https://github.com/MatheusBrayer)
 
