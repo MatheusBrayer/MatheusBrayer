@@ -1,99 +1,170 @@
+# 👨‍💻 Matheus Brayer
 
-# 👋 Olá, eu sou o Matheus Brayer
+💻 **Full Stack Developer in Training**
+🚀 React | Node.js | Java | Spring Boot | Python | APIs REST
 
-💻 **Desenvolvedor Backend | Java & Spring Boot | REST APIs | SQL & JPA | Git | Docker | Maven**
+Desenvolvedor em formação com foco na construção de **aplicações web completas**, atuando tanto no **frontend quanto no backend**.
+Possuo experiência prática no desenvolvimento de **APIs REST com Java e Spring Boot**, além de projetos com **Node.js, React e Python para automação e análise de dados**.
 
-Sou desenvolvedor backend em formação, com foco em **Java e Spring Boot**, criando **APIs REST escaláveis e bem estruturadas**. Tenho experiência prática com **JPA/Hibernate, DTOs, mappers, validação de dados, documentação com SpringDoc OpenAPI** e bancos de dados como **H2, SQLite e PostgreSQL**.
-
-Além do backend em Java, desenvolvi projetos em **Python e SQL** aplicados à **automação e análise de dados** (Pandas, NumPy, Seaborn), o que me deu uma visão ampla de integração de tecnologias e manipulação de dados.
-
-Meu perfil é **analítico, proativo e orientado a soluções**, sempre buscando aplicar **boas práticas de código** e evoluir continuamente.
-
----
-
-## 🚀 Tecnologias e Conhecimentos
-
-* **Java 8+, Spring Boot, JPA/Hibernate, APIs REST**
-* **DTOs, Mappers, Swagger/OpenAPI**
-* **SQL (SQLite, PostgreSQL), H2 Database**
-* **Maven, Docker, Git, Postman**
-* **Python, Pandas, NumPy, Seaborn, integração com APIs**
-* **Orientação a Objetos, Análise de Dados**
+Tenho perfil **analítico, disciplinado e orientado à resolução de problemas**, buscando minha **primeira oportunidade como Desenvolvedor Full Stack Jr** para contribuir em projetos reais e evoluir em equipe.
 
 ---
 
-## 📂 Projetos em Destaque
+# 🚀 Tecnologias
 
-### 🛒 **E-commerce API**
+### 👨‍💻 Linguagens
 
-API backend em **Java e Spring Boot** com JPA, DTOs, Mappers, validação de dados, documentação com **SpringDoc OpenAPI**, tratamento de exceções e persistência com H2.
+* Java
+* JavaScript
+* Python
 
-### 🎶 **AppMusic**
+### 🖥 Frontend
 
-Aplicação em **Java com POO e MVC**, simulando gerenciamento de músicas e playlists.
+* React
+* HTML5
+* CSS3
+* JavaScript ES6+
 
-### 🌦️ **Projeto Clima**
+### ⚙️ Backend
 
-Coleta de dados via API, armazenamento em SQLite e análise com Pandas e Seaborn.
+* Node.js
+* Java (Spring Boot)
+* APIs REST
 
-### 🎓 **Gerenciamento de Alunos**
+### 🗄 Banco de Dados
 
-Sistema em **Python com Tkinter e SQLite** para cadastro, consulta e edição de alunos.
+* PostgreSQL
+* MongoDB
+* SQLite
+* H2
 
-### 💳 **Cartão de Crédito / Conta Bancária**
+### 🛠 Ferramentas
 
-Projeto em **Java (POO)** simulando operações bancárias.
-
----
-
-## 💼 Experiência Profissional
-
-**Vulcabras – Programador de Máquinas**
-*Jul/2019 – Atual*
-
-* Desenvolvimento de programas para máquinas CNC e bordados em **Java e Python**.
-* Criação de relatórios técnicos e automação de processos.
-* Projetos elétricos, compra de materiais e suporte à manutenção.
-
-**SM Matrizes – Operador de Máquinas**
-*Out/2015 – Mai/2018*
-
-* Operação de máquinas de corte.
-* Elaboração de relatórios e emissão de notas fiscais.
-
----
-
-## 🎓 Formação
-
-* **Engenharia de Software** – Anhanguera (Jan/2024 – Jun/2027, em andamento)
-* **Engenharia de Produção** – Faccat (Trancado)
-* **Técnico em Eletrotécnica** – Cimol
-* **Técnico em Mecânica Industrial** – Cimol
+* Git & GitHub
+* Docker
+* Maven
+* Gradle
+* Postman
+* IntelliJ
+* VS Code
 
 ---
 
-## 📚 Cursos e Certificações
+# 📂 Projetos em Destaque
 
-* **Backend com Java & Microsserviços (Spring Boot, REST, JPA, Docker, Maven, Gradle)** – 78h
-* **Python & POO (Aplicações, Consumo de APIs, Tkinter)** – 30h
-* **SQL & Banco de Dados (SQLite, Joins, Views, Transações, Análise de Dados)** – 34h
-* **Data Science (Python, NumPy, Pandas, Seaborn)** – 34h
-* **Fundação Bradesco (POO, Lógica de Programação, HTML)** – 37h
-* **Codefinity (Python, Pandas, NumPy, SQL)** – 28h
-* **Curso em Vídeo – Python (Mundo 1, 2 e 3)** – 120h
+### 🛒 E-commerce API
+
+API REST desenvolvida com **Java + Spring Boot**.
+
+Funcionalidades:
+
+* CRUD completo
+* DTOs e Mappers
+* Validação de dados
+* Documentação com OpenAPI
+* Arquitetura em camadas
+
+Tecnologias:
+`Java` `Spring Boot` `JPA` `Hibernate` `H2`
 
 ---
 
-## 🌎 Idiomas
+### 🌦 Projeto Clima
 
-* **Português**: Nativo
-* **Inglês**: B1 (leitura, escrita e conversação)
+Projeto de coleta e análise de dados climáticos utilizando API externa.
+
+Tecnologias:
+
+* Python
+* SQLite
+* Pandas
+* Seaborn
+* Consumo de API
 
 ---
 
-## 📫 Contato
+### 🎓 Gerenciamento de Alunos
 
-* 📧 [mbrayer3@gmail.com](mailto:mbrayer3@gmail.com)
-* 🔗 [LinkedIn](https://linkedin.com/in/matheus-brayer)
-* 🐙 [GitHub](https://github.com/MatheusBrayer)
+Sistema desktop para gerenciamento de alunos.
 
+Tecnologias:
+
+* Python
+* Tkinter
+* SQLite
+
+---
+
+### 🎵 AppMusic
+
+Aplicação desenvolvida em Java utilizando:
+
+* Programação Orientada a Objetos
+* Arquitetura MVC
+
+---
+
+# 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusBrayer\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBrayer\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🎓 Formação
+
+🎓 **Engenharia de Software**
+Anhanguera (2024 – 2027)
+
+💻 **Full Stack Developer – Growdev** *(em andamento)*
+React | Node.js | PostgreSQL | MongoDB
+
+---
+
+# 📚 Cursos
+
+* Backend com **Java & Microsserviços (Spring Boot)** – Alura
+* **Python & Programação Orientada a Objetos**
+* **SQL & Banco de Dados**
+* **Data Science com Python**
+* **Python – Curso em Vídeo (120h)**
+* **Fundação Bradesco (POO, Lógica e HTML)**
+* **Codefinity (Python, Pandas, NumPy e SQL)**
+
+---
+
+# 💼 Experiência Profissional
+
+### Vulcabras — Programador de Máquinas
+
+📅 2019 – Atual
+
+Atuação com:
+
+* Desenvolvimento e manutenção de programas CNC
+* Análise técnica de projetos
+* Melhoria de processos produtivos
+* Resolução de problemas operacionais
+
+Essa experiência fortaleceu minhas habilidades de **lógica, análise técnica e resolução de problemas**.
+
+---
+
+# 🌎 Idiomas
+
+🇧🇷 Português — Nativo
+🇺🇸 Inglês — Intermediário (B1)
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn
+https://linkedin.com/in/matheus-brayer
+
+💻 GitHub
+https://github.com/MatheusBrayer
+
+✉️ Email
+[mbrayer3@gmail.com](mailto:mbrayer3@gmail.com)
