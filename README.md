@@ -1,170 +1,171 @@
-# 👨‍💻 Matheus Brayer
+<h1 align="center">👨‍💻 Matheus Brayer</h1>
 
-💻 **Full Stack Developer in Training**
-🚀 React | Node.js | Java | Spring Boot | Python | APIs REST
+<p align="center">
+  Desenvolvedor Full Stack Jr<br/>
+  <b>React • Node • Java • Spring Boot • APIs REST • SQL</b>
+</p>
 
-Desenvolvedor em formação com foco na construção de **aplicações web completas**, atuando tanto no **frontend quanto no backend**.
-Possuo experiência prática no desenvolvimento de **APIs REST com Java e Spring Boot**, além de projetos com **Node.js, React e Python para automação e análise de dados**.
-
-Tenho perfil **analítico, disciplinado e orientado à resolução de problemas**, buscando minha **primeira oportunidade como Desenvolvedor Full Stack Jr** para contribuir em projetos reais e evoluir em equipe.
-
----
-
-# 🚀 Tecnologias
-
-### 👨‍💻 Linguagens
-
-* Java
-* JavaScript
-* Python
-
-### 🖥 Frontend
-
-* React
-* HTML5
-* CSS3
-* JavaScript ES6+
-
-### ⚙️ Backend
-
-* Node.js
-* Java (Spring Boot)
-* APIs REST
-
-### 🗄 Banco de Dados
-
-* PostgreSQL
-* MongoDB
-* SQLite
-* H2
-
-### 🛠 Ferramentas
-
-* Git & GitHub
-* Docker
-* Maven
-* Gradle
-* Postman
-* IntelliJ
-* VS Code
+<p align="center">
+  https://linkedin.com/in/matheus-brayerLinkedIn</a> •
+  mbrayer3@gmail.com 
+</p>
 
 ---
 
-# 📂 Projetos em Destaque
+## 🧠 Sobre mim
 
-### 🛒 E-commerce API
+Sou um desenvolvedor full stack em evolução constante, com experiência prática em construção de **APIs REST, aplicações web e sistemas integrados**.
 
-API REST desenvolvida com **Java + Spring Boot**.
+Minha base vem da programação industrial, onde desenvolvi um raciocínio lógico forte e foco em eficiência — hoje aplicado diretamente no desenvolvimento de software.
 
-Funcionalidades:
+💡 Foco em:
+- Código limpo e escalável  
+- Arquitetura bem definida  
+- Integração entre sistemas  
+- Performance  
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥️ Frontend
+- React.js  
+- JavaScript (ES6+)  
+- HTML5 & CSS3  
+
+### 🔧 Backend
+- Node.js + Express  
+- Java + Spring Boot  
+
+### 🗄️ Banco de Dados
+- PostgreSQL  
+- MongoDB  
+- SQLite / H2  
+
+### 🛠️ Ferramentas
+- Git & GitHub  
+- Docker  
+- Postman  
+- Maven / Gradle  
+- VS Code / IntelliJ  
+
+---
+
+## 🏗️ Arquitetura que sigo
+
+```txt
+Frontend → API → Banco de Dados
+          ↑
+   Regras de Negócio
+````
+
+* Arquitetura em camadas
+* Separação de responsabilidades
+* Uso correto dos métodos HTTP
+* Validações e tratamento de erros
+
+***
+
+## 💼 Experiência Profissional
+
+### 🏭 Programador | Vulcabras (2019 - Atual)
+
+* Automação de máquinas industriais
+* Redução de até **50% no tempo de execução de processos**
+* Resolução de problemas técnicos complexos
+* Análise e melhoria contínua
+
+📌 Habilidades desenvolvidas:
+
+* Pensamento lógico
+* Diagnóstico técnico
+* Foco em performance
+
+***
+
+## 🚀 Projetos em Destaque
+
+### 🔹 Clients API (Java + Spring Boot)
 
 * CRUD completo
-* DTOs e Mappers
-* Validação de dados
-* Documentação com OpenAPI
 * Arquitetura em camadas
+* JPA / Hibernate
 
-Tecnologias:
-`Java` `Spring Boot` `JPA` `Hibernate` `H2`
+🔗 <https://github.com/MatheusBrayer/clients-api>
 
----
+***
 
-### 🌦 Projeto Clima
+### 🔹 E-commerce API (Spring Boot)
 
-Projeto de coleta e análise de dados climáticos utilizando API externa.
+* Gestão de produtos
+* API REST estruturada
 
-Tecnologias:
+🔗 <https://github.com/MatheusBrayer/Ecommerce>
 
-* Python
-* SQLite
-* Pandas
-* Seaborn
-* Consumo de API
+***
 
----
+### 🔹 API Pets (Node.js)
 
-### 🎓 Gerenciamento de Alunos
+* CRUD completo
+* Middlewares e validações
+* Tratamento de erros
 
-Sistema desktop para gerenciamento de alunos.
+🌐 <https://api-pets-b7t4.onrender.com>  
+📄 <https://documenter.getpostman.com/view/46945043/2sBXwjxEqC>  
+🔗 <https://github.com/MatheusBrayer/api-pets>
 
-Tecnologias:
+***
 
-* Python
-* Tkinter
-* SQLite
+### 🔹 Growflix (Frontend)
 
----
+* Layout responsivo
+* Conteúdo dinâmico
 
-### 🎵 AppMusic
+🌐 <https://matheusbrayer.github.io/projeto-growflix/>  
+🔗 <https://github.com/MatheusBrayer/projeto-growflix>
 
-Aplicação desenvolvida em Java utilizando:
+***
 
-* Programação Orientada a Objetos
-* Arquitetura MVC
+### 🔹 Projeto Clima (Python)
 
----
+* Consumo de API externa
+* Manipulação de dados
 
-# 📊 Estatísticas do GitHub
+🔗 <https://github.com/MatheusBrayer/Projeto-Clima>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusBrayer\&show_icons=true\&theme=tokyonight)
+***
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBrayer\&layout=compact\&theme=tokyonight)
+## 🎓 Formação
 
----
+* Engenharia de Software (2024 - 2027)
+* Formação Full Stack - Growdev
+* Formação Full Stack - +PraTi
 
-# 🎓 Formação
+***
 
-🎓 **Engenharia de Software**
-Anhanguera (2024 – 2027)
+## 📚 Certificações
 
-💻 **Full Stack Developer – Growdev** *(em andamento)*
-React | Node.js | PostgreSQL | MongoDB
+* Backend com Java & Microsserviços
+* SQL & Banco de Dados
+* Python & POO
+* Data Science com Python
 
----
+***
 
-# 📚 Cursos
+## 🌍 Idiomas
 
-* Backend com **Java & Microsserviços (Spring Boot)** – Alura
-* **Python & Programação Orientada a Objetos**
-* **SQL & Banco de Dados**
-* **Data Science com Python**
-* **Python – Curso em Vídeo (120h)**
-* **Fundação Bradesco (POO, Lógica e HTML)**
-* **Codefinity (Python, Pandas, NumPy e SQL)**
+* Inglês: Intermediário (B1)
 
----
+***
 
-# 💼 Experiência Profissional
 
-### Vulcabras — Programador de Máquinas
+## ⚡ Diferencial
 
-📅 2019 – Atual
+O que me diferencia:
 
-Atuação com:
+✔ Experiência prática com problemas reais  
+✔ Pensamento de engenharia  
+✔ Capacidade de integrar sistemas ponta a ponta  
+✔ Foco em solução, não apenas código
 
-* Desenvolvimento e manutenção de programas CNC
-* Análise técnica de projetos
-* Melhoria de processos produtivos
-* Resolução de problemas operacionais
 
-Essa experiência fortaleceu minhas habilidades de **lógica, análise técnica e resolução de problemas**.
-
----
-
-# 🌎 Idiomas
-
-🇧🇷 Português — Nativo
-🇺🇸 Inglês — Intermediário (B1)
-
----
-
-# 📫 Contato
-
-💼 LinkedIn
-https://linkedin.com/in/matheus-brayer
-
-💻 GitHub
-https://github.com/MatheusBrayer
-
-✉️ Email
-[mbrayer3@gmail.com](mailto:mbrayer3@gmail.com)
